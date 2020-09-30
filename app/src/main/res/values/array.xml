@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bubble">
+        <item>#41ffffff</item>
+        <item>#18ffffff</item>
+        <item>#1fffffff</item>
+        <item>#25ffffff</item>
+    </string-array>
+    <string-array name="BubbleAnimations">
+        <item>com.github.glomadrian.grav.generator.animation.SideToSideAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.ShakeAnimator</item>
+    </string-array>
+
+
+    <string-array name="sehirler">
+        <item>Doğum Yeri</item>
+        <item>İstanbul</item>
+        <item>Ankara</item>
+        <item>Antalya</item>
+        <item>Bursa</item>
+        <item>Trabzon</item>
+        <item>Hatay</item>
+        <item>İzmir</item>
+        <item>Antalya</item>
+
+    </string-array>
+
+
+
+    <string-array name="lat">
+        <item>00.00</item>
+        <item>41.00</item>
+        <item>39.93</item>
+        <item>36.89</item>
+        <item>40.18</item>
+        <item>41.00</item>
+        <item>36.21</item>
+        <item>38.41</item>
+        <item>37.21</item>
+
+    </string-array>
+    <string-array name="lon">
+        <item>00.00</item>
+        <item>28.97</item>
+        <item>32.85</item>
+        <item>30.71</item>
+        <item>29.06</item>
+        <item>39.71</item>
+        <item>36.16</item>
+        <item>27.14</item>
+        <item>30.47</item>
+
+    </string-array>
+
+
+</resources>
