@@ -50,6 +50,7 @@ class MainActivity : AppCompatActivity(),AdapterView.OnItemSelectedListener{
                     aDay=mDay.toString()
                     perDate=true
                     btnDate.setText(aDay+ "/"+ aMonth+"/"+aYear)
+
                 },
                 year,
                 month,
