@@ -29,9 +29,9 @@ Kullanıcının doğum tarihi,doğum saati ve doğum yeri bilgisi alınarak, bur
 
 ## Uygulama Görselleri
 > Splash Ekranı<br/><br/>
-<img src="https://github.com/birincioglu1/TheWeatherAppMVVM/blob/master/app/src/main/res/drawable-v24/screen_main.png" width="400" height="700"><br/><br/>
+<img src="https://github.com/birincioglu1/HoroscopeApp/blob/master/app/src/main/res/drawable-v24/screen_splash.PNG" width="400" height="700"><br/><br/>
 > Ana Ekran<br/><br/>
-<img src="https://github.com/birincioglu1/TheWeatherAppMVVM/blob/master/app/src/main/res/drawable-v24/screen_city.png" width="400" height="700"><br/><br/>
+<img src="https://github.com/birincioglu1/HoroscopeApp/blob/master/app/src/main/res/drawable-v24/screen_main.PNG" width="400" height="700"><br/><br/>
 > Burc Detay Ekranı <br/><br/>
-<img src="https://github.com/birincioglu1/TheWeatherAppMVVM/blob/master/app/src/main/res/drawable-v24/screen_detail.png" width="400" height="700">
+<img src="https://github.com/birincioglu1/HoroscopeApp/blob/master/app/src/main/res/drawable-v24/screen_detail.PNG" width="400" height="700">
 
